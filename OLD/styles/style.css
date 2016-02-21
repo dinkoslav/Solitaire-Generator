@@ -1,0 +1,28 @@
+body {
+    margin:0;
+    padding: 0;
+}
+
+#game-wrap {
+    background-color: greenyellow;
+}
+
+#field {
+    position: relative;
+    background-color: darkseagreen;
+    margin: 0 auto;
+}
+
+#menu {
+    background-color: darkblue;
+    width: 100%;
+    height: 50px;
+}
+
+.pile{
+    position: absolute;
+}
+
+.card{
+    position: absolute;
+}
